@@ -13,4 +13,4 @@ hi html viewer是一个在网页上查看HTML的一个工具
 
 ###在线体验
 
-[点击进入](https:oneblockh.github.io/hi_html_viewer/hi html viewer.html)
+[点击进入](https://oneblockh.github.io/hi_html_viewer/hi%20html%20viewer.html)
